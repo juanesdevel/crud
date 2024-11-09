@@ -29,7 +29,7 @@ include '../conexion/conexion.php';
 
 <div class="container-fluid alert alert-info sombra">
     <h1>Administración de Productos <i class="fas fa-box-open"></i>
-</h1>  <a href="../index.php"class="btn btn-dark btn-sm">Regresar</a><span> </span></div>
+</h1>  <a href="index.php"class="btn btn-dark btn-sm">Regresar</a><span> </span></div>
 
 <div class="container-fluid">
 <div class="row">

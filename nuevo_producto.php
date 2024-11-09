@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <?php
+// incluye el archivo de conexion a base de datos
 include '../conexion/conexion.php';
 
 if(isset($_POST['submit'])){
