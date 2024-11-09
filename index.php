@@ -47,7 +47,11 @@
     <div class="row">
         <div class="col-12">
            
+<<<<<<< HEAD
             <a href="productos.php" class="btn btn-primary sombra">Administrar Productos</a>
+=======
+            <a href="vistas/productos.php" class="btn btn-primary sombra">Administrar Productos</a>
+>>>>>>> e865c03315e9cdd9af5b108c022ae6ab44a08c1f
           
         </div>
     </div>
