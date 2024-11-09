@@ -1,6 +1,6 @@
 <?php
 $id_productos=$_GET['id_producto'];
-
+//  conexion a base de datos
 include ("conexion.php");
 
 
