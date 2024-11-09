@@ -1,5 +1,5 @@
 <?php
-// incluye el archivo de conexion a base de datos
+// incluye el archivo de conexion a base de dato
 include '../conexion/conexion.php';
 ?>
 <!DOCTYPE html>
