@@ -1,5 +1,5 @@
 <?php
-// Incluir el archivo de seguridad de sesión
+// incluye el archivo de conexion a base de datos
 include '../conexion/conexion.php';
 ?>
 <!DOCTYPE html>
